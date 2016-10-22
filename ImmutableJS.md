@@ -27,8 +27,9 @@ function memoize(fn) {
 }
 ```
 
-#### Mori Library (get link)  
- * optimized immutable data structures
+#### Mori Library 
+  * [http://swannodette.github.io/mori/]
+  * optimized immutable data structures
  
 ### Structural sharing  
    - Constant time overhead in time
