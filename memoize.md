@@ -1,6 +1,7 @@
 # memoize
 
 [https://www.youtube.com/watch?v=I7IdS-PbEgI&feature=youtu.be]  
+*watch the video to see explanation of code!!!*
 
 ```
 function memoize(fn) {
