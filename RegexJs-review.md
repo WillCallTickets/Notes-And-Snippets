@@ -52,3 +52,17 @@ if (matches != null) {
 .replace(/\s+/, "") 
 .replace(/\s/g, "") 
 ```
+
+#### Constructor example
+```
+redact = function (input, replaceWith) {
+  if(typeof input === 'string') {
+    // won't work - must use constructor - see below
+    // input = input.replace(/replaceWith/gi, 'REDACTED');
+    input = input.replace(RegExp(replaceWith, 'gi'), 'REDACTED');
+  }
+  return input;
+};
+
+console.log(redact('two horse, three penny, replaceWith four hoRSEman', 'horse'));
+```
