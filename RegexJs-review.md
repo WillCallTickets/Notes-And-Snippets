@@ -57,7 +57,7 @@ if (matches != null) {
 ```
 redact = function (input, replaceWith) {
   if(typeof input === 'string') {
-    // won't work - must use constructor - see below
+    // next line will not work - must use constructor - see below
     // input = input.replace(/replaceWith/gi, 'REDACTED');
     input = input.replace(RegExp(replaceWith, 'gi'), 'REDACTED');
   }
