@@ -9,7 +9,8 @@
 
 [Maps, Maps, Maps](http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~271612~90045352?qvq=q%3Apublication_author%3D%22berann%22%2B%3Bsort%3Apub_date%2Cpub_list_no%2Cseries_no%3Blc%3ARUMSEY~8~1&mi=1&trs=78)
 
-[Bug Tracker Tool](https://debugme.eu/)
+#### Bug Tracker Tool
+https://debugme.eu/ - not working as of Feb 2, 2016
 
 #### Rem Zolotykh - [React tutorial](https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY)
 * great tutorial but lacking in deployment details
