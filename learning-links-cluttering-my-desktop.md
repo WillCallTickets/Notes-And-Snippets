@@ -16,5 +16,7 @@ https://debugme.eu/ - not working as of Feb 2, 2016
 * great tutorial but lacking in deployment details
 * stay tuned to his channel as he may cover deployment in the future
 
+[Rem's CRUD app with React and rrv4](https://www.youtube.com/watch?v=h1ivekTEC2M)
+
 #### Dan Abramov - [Egghead.io Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
